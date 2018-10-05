@@ -1,0 +1,8 @@
+C:\Users\gspaula\Documents\PROJETOS\CODIGOS TESTE\TDD_FizzBuzz\TDD_FizzBuzz\bin\Debug\TDD_FizzBuzz.exe.config
+C:\Users\gspaula\Documents\PROJETOS\CODIGOS TESTE\TDD_FizzBuzz\TDD_FizzBuzz\obj\Debug\TDD_FizzBuzz.exe
+C:\Users\gspaula\Documents\PROJETOS\CODIGOS TESTE\TDD_FizzBuzz\TDD_FizzBuzz\obj\Debug\TDD_FizzBuzz.pdb
+C:\Users\gspaula\Documents\PROJETOS\CODIGOS TESTE\TDD_FizzBuzz\TDD_FizzBuzz\bin\Debug\TDD_FizzBuzz.exe
+C:\Users\gspaula\Documents\PROJETOS\CODIGOS TESTE\TDD_FizzBuzz\TDD_FizzBuzz\bin\Debug\TDD_FizzBuzz.pdb
+C:\Users\gspaula\Documents\PROJETOS\CODIGOS TESTE\TDD_FizzBuzz\TDD_FizzBuzz\bin\Debug\FizzBuzz.Library.dll
+C:\Users\gspaula\Documents\PROJETOS\CODIGOS TESTE\TDD_FizzBuzz\TDD_FizzBuzz\bin\Debug\FizzBuzz.Library.pdb
+C:\Users\gspaula\Documents\PROJETOS\CODIGOS TESTE\TDD_FizzBuzz\TDD_FizzBuzz\obj\Debug\FizzBuzz.csprojResolveAssemblyReference.cache

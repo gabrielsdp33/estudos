@@ -1,0 +1,9 @@
+C:\Users\gspaula\Documents\PROJETOS\Estudo_AJAX_Macoratti\TDD_FizzBuzz\FizzBuzz.Library\bin\Debug\FizzBuzz.Library.dll
+C:\Users\gspaula\Documents\PROJETOS\Estudo_AJAX_Macoratti\TDD_FizzBuzz\FizzBuzz.Library\bin\Debug\FizzBuzz.Library.pdb
+C:\Users\gspaula\Documents\PROJETOS\Estudo_AJAX_Macoratti\TDD_FizzBuzz\FizzBuzz.Library\obj\Debug\FizzBuzz.Library.dll
+C:\Users\gspaula\Documents\PROJETOS\Estudo_AJAX_Macoratti\TDD_FizzBuzz\FizzBuzz.Library\obj\Debug\FizzBuzz.Library.pdb
+C:\Users\gspaula\Documents\PROJETOS\CODIGOS TESTE\TDD_FizzBuzz\FizzBuzz.Library\bin\Debug\FizzBuzz.Library.dll
+C:\Users\gspaula\Documents\PROJETOS\CODIGOS TESTE\TDD_FizzBuzz\FizzBuzz.Library\bin\Debug\FizzBuzz.Library.pdb
+C:\Users\gspaula\Documents\PROJETOS\CODIGOS TESTE\TDD_FizzBuzz\FizzBuzz.Library\obj\Debug\FizzBuzz.Library.csprojResolveAssemblyReference.cache
+C:\Users\gspaula\Documents\PROJETOS\CODIGOS TESTE\TDD_FizzBuzz\FizzBuzz.Library\obj\Debug\FizzBuzz.Library.dll
+C:\Users\gspaula\Documents\PROJETOS\CODIGOS TESTE\TDD_FizzBuzz\FizzBuzz.Library\obj\Debug\FizzBuzz.Library.pdb
